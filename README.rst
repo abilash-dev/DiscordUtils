@@ -46,7 +46,9 @@ DiscordSVGs
 - `Logo <https://cdn.jsdelivr.net/gh/mahtoid/DiscordUtils@master/discord-logo.svg>`_
 
 
-## Attribution
+Attribution
+-----------
 
-Based on the original [DiscordUtils](https://github.com/mahtoid/DiscordUtils) project. Modified for custom use.
+Based on the original `DiscordUtils <https://github.com/mahtoid/DiscordUtils>`_ project. Modified for custom use.
+
 
