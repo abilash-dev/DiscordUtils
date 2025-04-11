@@ -44,3 +44,9 @@ DiscordSVGs
 - `Hashtag <https://cdn.jsdelivr.net/gh/mahtoid/DiscordUtils@master/discord-hashtag.svg>`_
 - `Command <https://cdn.jsdelivr.net/gh/mahtoid/DiscordUtils@master/discord-command.svg>`_
 - `Logo <https://cdn.jsdelivr.net/gh/mahtoid/DiscordUtils@master/discord-logo.svg>`_
+
+
+Attribution
+------------
+
+- `Based on the original DiscordUtils <https://github.com/mahtoid/DiscordUtils> project. Modified for custom use.`_
