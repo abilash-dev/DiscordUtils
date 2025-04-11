@@ -49,4 +49,4 @@ DiscordSVGs
 Attribution
 ------------
 
-- `Based on the original DiscordUtils <https://github.com/mahtoid/DiscordUtils> project. Modified for custom use.`_
+- Based on the original [DiscordUtils](https://github.com/mahtoid/DiscordUtils) project. Modified for custom use.
